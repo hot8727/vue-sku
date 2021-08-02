@@ -2,7 +2,7 @@
 
 ## What
 
-通过vue使用图解法完成sku
+通过vue使用图解法完成sku降维
 
 掘金经典SKU算法(in react)的vue实现
 
